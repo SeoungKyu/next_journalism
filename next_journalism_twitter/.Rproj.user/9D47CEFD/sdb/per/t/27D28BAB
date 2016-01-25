@@ -1,0 +1,18 @@
+{
+    "contents" : "##install.packages(\"twitterR\")\n##install.packages(\"ROAuth\")\n##install.packages(\"base64enc\")\nlibrary(twitteR)\nlibrary(ROAuth)\nlibrary(base64enc)\n\n\nconsumer_key <- '5sskghkTdKvhNxoFAkUqwHg7F'\nconsumer_secret <- 'rGIXEWWNhwPhlh9WsIlMQ2pOrF4ypYxpIv5ATC1MyS2SFNnLaN'\naccess_token <- '2260968660-ynTqLkdpUfTTvUHqpWkZ86ULPLEsCu0foaPfTsf'\naccess_secret <- 'VdG3QSp2iyYzcz2exPMzNnRETRtBwOIt3cCSLaOHI3DFg'\n\nsetup_twitter_oauth(consumer_key,consumer_secret,access_token,access_secret)\nsearchTwitter(\"#d3js\", n=100)\n\ndata <- searchTwitter(\"#d3js\", n=100)\ndata2 <- twListToDF(data)\nView(data2)\n",
+    "created" : 1453438331308.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "678637101",
+    "id" : "27D28BAB",
+    "lastKnownWriteTime" : 1453438459,
+    "path" : "~/Desktop/next_journalism_twitter/twitter.R",
+    "project_path" : "twitter.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

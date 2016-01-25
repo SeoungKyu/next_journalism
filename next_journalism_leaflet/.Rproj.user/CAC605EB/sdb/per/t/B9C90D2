@@ -1,0 +1,17 @@
+{
+    "contents" : "data1 <- read.xlsx(\"data2013.xlsx\", sheetName = \"sheet1\")\ndata2 <- geocode(as.character(data1$gu))\ndata3 <- cbind(data1, data2)\n\nmap.seoul <- qmap(\"seoul\", source=\"stamen\", zoom=12, maptype=\"toner\", darken=c(.3, \"#BBBBBB\")) \n\nmap.seoul +\n  geom_point(data=data3, aes(x=lon, y=lat, size=price, color=occur), alpha=.9, na.rm=T) +\n  scale_color_gradient(low=\"#FF0000\", high=\"#A90000\", name=\"occur in 2013 \") +\n  scale_size(range=c(1,10) , guide=\"none\") + \n  ggtitle(\"The Number & amount of fire damage in 2013 \") +\n  theme(text = element_text(family = \"AppleGothic\", color=\"#666666\")) +\n  theme(plot.title = element_text( size=25, face=\"bold\", hjust=0, vjust=.5))\n",
+    "created" : 1453628549549.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2753435676",
+    "id" : "B9C90D2",
+    "lastKnownWriteTime" : 1427094523,
+    "path" : "~/Desktop/Google 드라이브/R관련/R code/fire2013/fire.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

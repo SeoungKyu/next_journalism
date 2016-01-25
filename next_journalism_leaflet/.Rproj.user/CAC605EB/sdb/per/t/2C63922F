@@ -1,0 +1,18 @@
+{
+    "contents" : "##install.packages(\"leaflet\")\nlibrary(leaflet)\n\n## load topojson\ntopoData <- readLines(\"seoul.json\") %>% paste(collapse = \"\\n\")\n\n## Basic tile\nmap <- leaflet() %>% addTiles() %>% \n  addMarkers(lng=127.063866, lat=37.506387, popup=\"google campus\")\n\n## CartoDB DarkMatter tile\nmap <- leaflet() %>% addProviderTiles(\"CartoDB.DarkMatter\") %>% \n  addMarkers(lng=127.063866, lat=37.506387, popup=\"google campus\")\n\n## CartoDB Positron tile & topojson layer add\nmap <- leaflet() %>% addProviderTiles(\"CartoDB.Positron\") %>% \n  addMarkers(lng=127.063866, lat=37.506387, popup=\"google campus\") %>% addTopoJSON(topoData, weight = 1, color = \"#444444\", fill = FALSE)\n\n## View map\nmap\n",
+    "created" : 1453599679037.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1912814723",
+    "id" : "2C63922F",
+    "lastKnownWriteTime" : 1453603153,
+    "path" : "~/Desktop/Google 드라이브/[1]Next_Journalism_Lecture/r_source/next_journalism_leaflet/leaflet.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

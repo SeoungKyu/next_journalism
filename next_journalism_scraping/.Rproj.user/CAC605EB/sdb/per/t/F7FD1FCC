@@ -1,0 +1,18 @@
+{
+    "contents" : "##install.packages(\"rvest\")\n##install.packages(\"XML\")\nlibrary(rvest)\nlibrary(XML)\nlibrary(plyr)\n\n\ndata_url <- \"http://score.sports.media.daum.net/record/soccer/epl/trnk.daum\"\ndata_html <- read_html(data_url, encoding='UTF-8')\n\ndata_table = html_node(data_html, '#table1')\ndata_finish <- html_table(data_table)\n",
+    "created" : 1453443467251.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "299086115",
+    "id" : "F7FD1FCC",
+    "lastKnownWriteTime" : 1453445846,
+    "path" : "~/Desktop/Google 드라이브/[1]Next_Journalism_Lecture/r_source/next_journalism_scraping/rvest_scraping.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
