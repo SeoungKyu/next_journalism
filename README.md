@@ -9,5 +9,9 @@ Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인�
 
 ##BOOK 
 
-- Virtualbox (http://virtualbox.org)
-- Vagrant (http://vagrantup.com)
+- 데이터 분석과 저널리즘 (http://goo.gl/oiOZWg)
+- 데이터저널리즘 : 스토리텔링의 과학 (http://goo.gl/qhf6p9)
+- 데이터저널리즘 (http://goo.gl/WkjXQi)
+- 데이터저널리즘 (http://goo.gl/v5Nybb)
+- The Data Journalism Handbook (http://goo.gl/vkK22q)
+- The Wall Street Journal guide to imformation graphics (http://goo.gl/IHQbqP)
