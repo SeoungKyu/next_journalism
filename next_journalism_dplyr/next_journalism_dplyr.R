@@ -1,9 +1,11 @@
 #-------------------------------
 #install.packages("dplyr")     
-#install.packages("ggplot2")   
+#install.packages("ggplot2")
+#install.packages("ggthemes")
 #-------------------------------
 
 library(dplyr)
+library(ggthemes)
 library(ggplot2)
 
 #filter_function
@@ -29,3 +31,6 @@ data_result <- diamonds %>%
   filter(cut=="Ideal") %>%
   select(carat, cut, color, price, clarity) %>%
   mutate(price_per_carat = price/carat)
+
+#ggplot2
+diamonds %>% filter(cut == "Good") %>% ggplot(aes(price)) + geom_histogram() + facet_wrap(~color) + theme_fivethirtyeight()
