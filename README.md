@@ -5,13 +5,53 @@
 
 ##R샘플코드
 
-Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인하실 수 있습니다
+Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인하실 수 있습니다. 
 
 ##BOOK 
 
 - 데이터 분석과 저널리즘 (http://goo.gl/oiOZWg)
+- R Cookbook (http://goo.gl/LfD4rq)
+- R Graphics Cookbook (http://goo.gl/dJ2Xfz)
+- Data Smart (http://goo.gl/AiYCQK)
 - 데이터저널리즘 : 스토리텔링의 과학 (http://goo.gl/qhf6p9)
-- 데이터저널리즘 (http://goo.gl/WkjXQi)
-- 데이터저널리즘 (http://goo.gl/v5Nybb)
+- 데이터저널리즘(1) (http://goo.gl/WkjXQi)
+- 데이터저널리즘(2) (http://goo.gl/v5Nybb)
+- 데이터과학 입문 (http://goo.gl/GEwmvF)
 - The Data Journalism Handbook (http://goo.gl/vkK22q)
-- The Wall Street Journal guide to imformation graphics (http://goo.gl/IHQbqP)
+- The Wall Street Journal Guide to Imformation Graphics (http://goo.gl/IHQbqP)
+
+#Web Reference
+
+- Data Camp (https://www.datacamp.com/)
+- '꿈꾸는데이터디자이너' 이민호 강사 Blog (http://lumiamitie.github.io/)
+- .Rddj (http://rddj.info/)
+- R for Journalists (http://www.scoop.it/t/r-for-journalists)
+- R-bloggers (http://www.r-bloggers.com/)
+
+#Ariticles
+
+- 지금은 저널리즘 대변환기 <상> 지역신문의 생존 전략-美 텍사스트리뷴 성공 비결 (http://goo.gl/mqsaFS)
+- 저널리즘의 또 다른 희망 '데이터 분석' (http://goo.gl/z8MwcI)
+- 왜 ‘데이터 저널리즘’인가? (http://goo.gl/LiOf5A)
+- “포털 야구 중계, 로봇 저널리즘이 대체 가능해“ (http://goo.gl/TLjRQV)
+- “대학언론, 디지털 도구를 익히자” (http://goo.gl/nr6p5f)
+- [MT시평]데이터 저널리즘, 생각을 바꿔라 (http://goo.gl/mZ0I2G)
+- 저널리즘 새 대안으로 부상한 데이터저널리즘 (http://goo.gl/KMqybJ)
+- “데이터 저널리즘, 정보의 홍수서 옥석 가려내는 큰 무기” (http://goo.gl/OKKxxW)
+
+#Data Journalism Media
+
+- NewYorkTimes Upshot (http://www.nytimes.com/upshot)
+- The Guardian Data Blog (http://www.theguardian.com/data)
+- FiveThirtyEight (http://fivethirtyeight.com/)
+- Bloomberg Visual Data (http://www.bloomberg.com/visual-data/)
+- Propublica (https://www.propublica.org/)
+- FT Data (http://blogs.ft.com/ftdata)
+- The Economist (http://www.economist.com/blogs/graphicdetail)
+
+#Contact
+
+- woons.2016@gmail.com
+- Facebook (https://goo.gl/MxEzH0)
+- 꿈꾸는데이터저널리스트 (https://goo.gl/NwCKqA)
+- 꿈꾸는데이터디자이너 (https://goo.gl/gWNN8T)
