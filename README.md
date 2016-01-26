@@ -7,6 +7,13 @@
 
 Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인하실 수 있습니다. 
 
+##R Cheat sheets
+
+- Rstudio IDE (http://goo.gl/crTawh)
+- Data Visualization with ggplot2 (http://goo.gl/jAoZAL)
+- Data Wrangling with dplyr & tidyr (http://goo.gl/YEQOIx)
+- R Markdown (http://goo.gl/0uQvQh)
+
 ##BOOK 
 
 - 데이터 분석과 저널리즘 (http://goo.gl/oiOZWg)
@@ -28,7 +35,7 @@ Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인�
 - R for Journalists (http://www.scoop.it/t/r-for-journalists)
 - R-bloggers (http://www.r-bloggers.com/)
 
-#Ariticles
+#Articles
 
 - 지금은 저널리즘 대변환기 <상> 지역신문의 생존 전략-美 텍사스트리뷴 성공 비결 (http://goo.gl/mqsaFS)
 - 저널리즘의 또 다른 희망 '데이터 분석' (http://goo.gl/z8MwcI)
@@ -49,7 +56,7 @@ Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인�
 - FT Data (http://blogs.ft.com/ftdata)
 - The Economist (http://www.economist.com/blogs/graphicdetail)
 
-#Contact
+#Contact (배여운)
 
 - woons.2016@gmail.com
 - Facebook (https://goo.gl/MxEzH0)
