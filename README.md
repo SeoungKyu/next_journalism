@@ -3,9 +3,15 @@
 
 'R을 활용하는 데이터저널리즘' 강의에서 사용한 관련 링크 및 R 샘플코드를 참고하실 수 있습니다. 
 
-##R샘플코드
+##R Sample_Code
 
 Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인하실 수 있습니다. 
+
+##강의자료
+
+아래 링크에서 다운로드 받을 수 있습니다
+
+- Download (http://goo.gl/crTawh)
 
 ##R Cheat sheets
 
@@ -55,6 +61,12 @@ Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인�
 - Propublica (https://www.propublica.org/)
 - FT Data (http://blogs.ft.com/ftdata)
 - The Economist (http://www.economist.com/blogs/graphicdetail)
+
+#Data Journalism Conference in 2016
+
+- NICAR 2016 (https://goo.gl/6RfaaZ)
+- IRE Conference 2016 (http://goo.gl/8XioBn)
+- GEN Summit 2016 (http://goo.gl/LY3vBC)
 
 #Contact (배여운)
 
