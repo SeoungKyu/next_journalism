@@ -2,8 +2,7 @@
 ===============
 
 'R을 활용하는 데이터저널리즘' 강의에서 사용한 관련 링크 및 R 샘플코드를 참고하실 수 있습니다. 
-함께 공부하고 많은 도움을 주신 Datalism 친구들께 감사드립니다 (http://datalism.org)
-
+궁금한 것들이 있으면 아래 연락처로 메일 혹은 쪽지 주세요
 ##R Sample_Code
 
 Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인하실 수 있습니다. 
@@ -36,11 +35,14 @@ Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인�
 
 #Web Reference
 
-- Data Camp (https://www.datacamp.com/)
+- 꿈꾸는데이터디자이너 강의 슬라이드 (http://goo.gl/xUkvxQ)
 - '꿈꾸는데이터디자이너' 이민호 강사 Blog (http://lumiamitie.github.io/)
-- .Rddj (http://rddj.info/)
+- Data Camp (https://www.datacamp.com/)
+- Rddj (http://rddj.info/)
 - R for Journalists (http://www.scoop.it/t/r-for-journalists)
 - R-bloggers (http://www.r-bloggers.com/)
+- Datalism study (http://datalism.org)
+
 
 #Articles
 
