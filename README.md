@@ -11,7 +11,7 @@ Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인�
 
 아래 링크에서 다운로드 받을 수 있습니다
 
-- Download (http://goo.gl/crTawh)
+- Download (https://goo.gl/AgDSiA)
 
 ##R Cheat sheets
 
@@ -42,6 +42,7 @@ Data Scarping, twitter, ggplot2, ggmap 등 관련 소스를 다운받아 확인�
 - R for Journalists (http://www.scoop.it/t/r-for-journalists)
 - R-bloggers (http://www.r-bloggers.com/)
 - Datalism study (http://datalism.org)
+- Spreadsheet Journalism (http://spreadsheetjournalism.com/)
 
 
 #Articles
